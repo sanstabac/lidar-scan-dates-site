@@ -1,0 +1,6 @@
+# raw lidar downloads are large; keep them out of the repo
+*.laz
+*.las
+*.zip
+__pycache__/
+.venv/
